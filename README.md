@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=agammalik" alt="agammalik" /></a> </p>
 
-- 🌱 I’m currently learning **Figma React Node express**
+- 🌱 I’m currently learning **React Angular Node Express Mongodb**
 
-- 💬 Ask me about **react css and node**
+- 💬 Ask me about **react, angular and node**
 
 - 📫 How to reach me **agam.malik31@gmail.com**
 
