@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Agam Malik</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
-<img align="center" alt="coding" width="400" src="https://gifdb.com/images/high/programming-typing-cat-meme-tjogs4o3p6l1vu0w.gif">
+<div style="align=center;"><img align="center" alt="coding" width="400" src="https://gifdb.com/images/high/programming-typing-cat-meme-tjogs4o3p6l1vu0w.gif"></div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agammalik&label=Profile%20views&color=0e75b6&style=flat" alt="agammalik" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=agammalik" alt="agammalik" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=agammalik" alt="agammalik" /></a> </p>
 
 - 🌱 I’m currently learning **React Angular Node Express Mongodb**
 
