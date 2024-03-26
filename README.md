@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Agam Malik</h1>
 <h3 align="center">A passionate Fullstack Developer. </h3>
-<div ><img align="center" alt="coding" width="400" src="https://gifdb.com/images/high/jabril-typing-with-toes-y859gmgutpzs3aqj.gif" style="margin: auto;"></div>
+<div ><img align="center" alt="coding" width="400" src="https://camo.githubusercontent.com/9730306c5c83741098c40dc3243f4bcdf7d7aa31aadfb3b5688a84be4381a0c1/68747470733a2f2f67696664622e636f6d2f696d616765732f686967682f70726f6772616d6d696e672d747970696e672d6361742d6d656d652d746a6f6773346f3370366c31767530772e676966" style="margin: auto;"></div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agammalik&label=Profile%20views&color=0e75b6&style=flat" alt="agammalik" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=agammalik" alt="agammalik" /></a> </p>
