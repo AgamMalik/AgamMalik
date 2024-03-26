@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Agam Malik</h1>
 <h3 align="center">A passionate Fullstack Developer. </h3>
-<div ><img align="center" alt="coding" width="400" src="https://github.com/AgamMalik/AgamMalik/assets/117631886/734c0857-02ce-4a55-983e-5b50e104aa39
-" style="margin: auto;"></div>
+<div ><img align="center" alt="coding" width="400" src="https://github.com/AgamMalik/AgamMalik/assets/117631886/734c0857-02ce-4a55-983e-5b50e104aa39" style="margin: auto;"></div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agammalik&label=Profile%20views&color=0e75b6&style=flat" alt="agammalik" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=agammalik" alt="agammalik" /></a> </p>
